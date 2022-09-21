@@ -1,4 +1,4 @@
-# DNSCrypt-DOH-Public-Servers-in-Notion
+# DNSCrypt,DOH & ODoH Public Servers in Notion
 This Database is the same as the the database from official page of [dnscrypt public-servers](https://dnscrypt.info/public-servers/).  This was created for the purpose of easy searching of Servers which was not possible in the official page.
 To make things easier to find I have added 9 Filter views.
 
@@ -17,3 +17,4 @@ Two more Properties are added which cannot be found in the official page. They a
 
 - **Anonymization** - Shows which servers are compatible or incompatible to be used with Relays.
 - **Countries** - Country where the server is operated.
+![Screenshot](https://user-images.githubusercontent.com/58687234/191438574-f0e0ef52-ff0a-4b4d-adce-c093bbe00e35.png)
