@@ -11,7 +11,7 @@ To make things easier to find I have added 9 Filter views.
 - **No Filtering -** All servers that dont implement any blocking and uncensored.
 - **DNSCrypt + Filtered🚫 + IPV4 + DNSSEC + No Log -** IPV4 Servers that use DNSCrypt protocol  which implement DNSSEC and block Ads, trackers but don't log any queries.
 - **DNSCrypt + NO Filtering + IPV4 + DNSSEC + No Log -** Same as Previous but Without filtering.
-- **By Country** - Servers grouped by countries. Another view of Countries [here](https://www.notion.so/920ea417970c470db3a9aed2124ab802)
+- **By Country** - Servers grouped by countries. 
 
 Two more Properties are added which cannot be found in the official page. They are
 
